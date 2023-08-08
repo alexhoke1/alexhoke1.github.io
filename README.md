@@ -43,7 +43,7 @@
         <h2>Education</h2>
         <ul>
             <li>Bachelor of Science in Actuarial Science, University of Texas, 2025</li>
-            <li> <li>Bachelor of Arts in Economics, University of Texas, 2025</li></li>
+            <li>Bachelor of Arts in Economics, University of Texas, 2025</li></li>
         </ul>
         <h2>Accomplishments</h2>
         <ul>
@@ -59,7 +59,12 @@
         </ul>
         <h2>Projects</h2>
         <ul>
-            <li>[Project 1]</li>
+            <li>
+                Personal Website
+Created a website from scratch using HTML, CSS, and JavaScript
+Showcases my skills, versatility, coding-abilities, and creativity
+
+            </li>
             <li>[Project 2]</li>
             <li>[Project 3]</li>
         </ul>
