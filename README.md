@@ -38,8 +38,7 @@
     <main>
         <h2>About Me</h2>
         <p>
-            Hello, I am Alex Hoke, a student at the University of Texas. I am pursuing two degrees in Actuarial Science and Economics as well as a minor in Risk Management and an Elements of Computing Certificate. 
-            I am passionate about [Your Interests] and constantly strive for excellence in my academic journey.
+            Hello, I'm Alex Hoke, currently a student at the University of Texas. My academic path is focused on Actuarial Science and Economics, complemented by a minor in Risk Management and an Elements of Computing Certificate. I am deeply enthusiastic about the world of numbers, risk assessment, and financial modeling. Exploring intricate mathematical concepts and dissecting data patterns truly captivates me. Alongside that, I have a strong interest in understanding the economic forces that shape our world. This combination of disciplines drives me to excel in my studies and to continuously seek ways to apply my knowledge in real-world scenarios.
         </p>
         <h2>Education</h2>
         <ul>
