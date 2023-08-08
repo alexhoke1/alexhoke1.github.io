@@ -43,24 +43,30 @@
         <h2>Education</h2>
         <ul>
             <li>Bachelor of Science in Actuarial Science, University of Texas, 2025</li>
-            <li>Bachelor of Arts in Economics, University of Texas, 2025</li></li>
+            <li>Bachelor of Arts in Economics, University of Texas, 2025</li>
         </ul>
         <h2>Accomplishments</h2>
         <ul>
-            <li>[Accomplishment 1]</li>
+            <li>
+                Spring 2023 CAS Actuarial Case Competition (Silver Medalist):
+Engaged in a prestigious CAS Actuarial Competition, showcasing practical skills and knowledge in the actuarial field. Demonstrated exceptional performance as part of a team, using R-Studio, Excel and more to create a pricing structure for a data set given by the University
+            </li>
             <li>[Accomplishment 2]</li>
             <li>[Accomplishment 3]</li>
         </ul>
         <h2>Skills</h2>
         <ul>
-            <li>[Skill 1]</li>
-            <li>[Skill 2]</li>
-            <li>[Skill 3]</li>
+            <li>Python, HTML, SQL, R-Studio</li>
+            <li>Probability - SOA Exam P</li>
+            <li>Intermediate Spanish</li>
+            <li>Google Certified Data Analyst</li>
+            <li>Actuarial analytical skills</li>
+            <li>Excel, Word, PowerPoint</li>
         </ul>
         <h2>Projects</h2>
         <ul>
             <li>
-                Personal Website
+                Personal Website:
 Created a website from scratch using HTML, CSS, and JavaScript
 Showcases my skills, versatility, coding-abilities, and creativity
 
