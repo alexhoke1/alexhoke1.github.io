@@ -70,7 +70,7 @@ Contributed to organizing and coordinating an actuarial case competition, honing
         <ul>
             <li>
                 Personal Website:
-Created a website from scratch using HTML, CSS, and JavaScript
+Created a website from scratch using HTML, CSS, and JavaScript.
 Showcases my skills, versatility, coding-abilities, and creativity
 
             </li>
