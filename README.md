@@ -55,7 +55,7 @@ Engaged in a prestigious CAS Actuarial Competition, showcasing practical skills 
                 Fall 2024 Actuarial Case Competition Student Committee:
 Contributed to organizing and coordinating an actuarial case competition, honing event management and teamwork abilities in a professional setting. Leveraged analytical thinking to ensure successful execution of challenging scenarios, enhancing problem-solving skills.
             </li>
-            <li>[Accomplishment 3]</li>
+        
         </ul>
         <h2>Skills</h2>
         <ul>
@@ -74,8 +74,7 @@ Created a website from scratch using HTML, CSS, and JavaScript.
 Showcases my skills, versatility, coding-abilities, and creativity
 
             </li>
-            <li>[Project 2]</li>
-            <li>[Project 3]</li>
+        
         </ul>
         <h2>Contact</h2>
         <p>Email: ath4321@gmail.com</p>
