@@ -44,6 +44,8 @@
         <ul>
             <li>Bachelor of Science in Actuarial Science, University of Texas, 2025</li>
             <li>Bachelor of Arts in Economics, University of Texas, 2025</li>
+            <li>Elements of Computing Certificate</li>
+            <li>Risk Management Minor</li>
         </ul>
         <h2>Accomplishments</h2>
         <ul>
